@@ -56,5 +56,6 @@ article, aside {
 header img {
 width: 100px;
 height: 100px;
-margin-left: auto;
+    align:middle;
+    text-align:center
 }
