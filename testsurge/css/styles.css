@@ -54,7 +54,7 @@ article, aside {
 }
 
 header img {
-  align-items: left;
+  align-items: flex-end;
 width: 100px;
 height: 100px;
 margin-left: 10px;
